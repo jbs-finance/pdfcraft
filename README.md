@@ -573,3 +573,7 @@ A center `move` can include `before` (panel ID or null to append) for tab order.
 The equivalent `{"action": ...}` form accepts a serialized shared docking action;
 this is also the form emitted by the renderer. Protected-canvas and app-specific panel
 rules apply equally to both forms.
+
+## Происхождение и лицензия
+
+Этот репозиторий является форком [storytold/pdfcraft](https://github.com/storytold/pdfcraft) (проект ArtCraft Team и контрибьюторов PdfCraft). Собственных изменений в форке нет, история совпадает с upstream. Лицензия: MIT OR Apache-2.0 на выбор (`LICENSE-MIT`, `LICENSE-APACHE`, `NOTICE`). Статус проекта и очередь работ: [ROADMAP.md](ROADMAP.md), долги форка: [BACKLOG.md](BACKLOG.md), история версий: [CHANGELOG.md](CHANGELOG.md).
